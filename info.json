@@ -1,0 +1,92 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://happy-new-year-six-roan.vercel.app/",
+            "path": "index.html",
+            "saved": true,
+            "size": 713,
+            "children": [
+                {
+                    "url": "https://happy-new-year-six-roan.vercel.app/assets/index.ee173a8e.js",
+                    "path": "js/index.ee173a8e.js",
+                    "saved": true,
+                    "size": 1581390
+                },
+                {
+                    "url": "https://happy-new-year-six-roan.vercel.app/assets/index.9f73cd05.css",
+                    "path": "css/index.9f73cd05.css",
+                    "saved": true,
+                    "size": 437247
+                },
+                {
+                    "url": "https://cdn.jsdelivr.net/gh/yu2256140203/Photos@main/65657584",
+                    "path": "65657584",
+                    "saved": true,
+                    "size": 16068
+                }
+            ]
+        }
+    ],
+    "alias": "happy-new-year-six-roan-vercel-app-n4zmesgf",
+    "info": {
+        "remark": [],
+        "title": "小🐟的空间✨",
+        "domain": "happy-new-year-six-roan.vercel.app",
+        "origin": "https://happy-new-year-six-roan.vercel.app",
+        "ip": "76.76.21.9",
+        "main": "index.html",
+        "url": "https://happy-new-year-six-roan.vercel.app/",
+        "totalSize": "2.04 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://happy-new-year-six-roan.vercel.app/#/me",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://happy-new-year-six-roan.vercel.app/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "accept-ranges": "bytes",
+                "access-control-allow-origin": "*",
+                "age": "0",
+                "cache-control": "public, max-age=0, must-revalidate",
+                "content-disposition": "inline",
+                "content-length": "489",
+                "content-type": "text/html; charset=utf-8",
+                "date": "Thu, 19 Jan 2023 00:51:42 GMT",
+                "etag": "\"a9587ad4ce63c4cd277823644e136464\"",
+                "server": "Vercel",
+                "strict-transport-security": "max-age=63072000; includeSubDomains; preload",
+                "x-vercel-cache": "HIT",
+                "x-vercel-id": "hnd1:hnd1::2pxnp-1674089502417-1a305204824b",
+                "connection": "close"
+            }
+        },
+        "time": {
+            "start": "2023-01-19T00:51:42.225Z",
+            "end": "2023-01-19T00:51:47.699Z"
+        }
+    },
+    "options": {
+        "url": "https://happy-new-year-six-roan.vercel.app/#/me",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
